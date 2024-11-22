@@ -1,0 +1,78 @@
+*{
+    margin: 0%;
+    box-sizing: border-box; /*esta clase evita que en nuestras paginas los contenedores o cajas sufran de desborddamiento*/
+    }
+    
+    
+.navegador{ 
+    width: 100%;
+    padding: 3px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section{
+    height: 70%;
+    padding: 3px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*porcentaje de contenedores para crear cajas*/
+.caja_10por{
+    border: 5px solid blue;
+    width: 10%;
+}
+
+.caja_20por{
+    border: 5px solid blue;
+     width: 20%;
+ }
+
+
+.caja_30por{
+   border: 5px solid blue;
+    width: 30%;
+}
+
+.caja_40por{
+    border: 5px solid blue;
+     width: 40%;
+ }
+
+.caja_50por{
+    border: 5px solid blue;
+     width: 50%;
+ }
+
+.caja_60por{
+    border: 5px solid blue;
+     width: 60%;
+ }
+
+.caja_70por{
+    border: 5px solid blue;
+     width: 70%;
+ }
+
+.caja_80por{
+    border: 5px solid blue;
+     width: 80%;
+ }
+
+.caja_90por{
+    border: 5px solid blue;
+     width: 90%;
+ }
+
+.caja_100por{
+    border: 5px solid blue;
+     width: 100%;
+ }
